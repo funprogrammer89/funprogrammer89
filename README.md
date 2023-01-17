@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @funprogrammer89
-- 👀 I’m interested in ... programming, technology, finance and lots more
+- 👀 I’m interested in ... bug free programming, technology, finance and lots more
 - 🌱 I’m currently learning ... as much as possible
 - 💞️ I’m looking to collaborate on ... Open Source projects
 - 📫 How to reach me ... kennethpelliott@outlook.com
